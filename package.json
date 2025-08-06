@@ -3,13 +3,13 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://BSivakrishna4.github.io/p102",
+  "homepage": "https://github.com/BSivakrishna4/p102.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy" :"npm run build",
+    "predeploy": "npm run build",
     "deploy": "gh pages -d dist"
   },
   "dependencies": {
