@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 class App extends Component {
   render() {
+    const BASEURL=import.meta.ev.
     return (
       <>
         <header>
@@ -9,7 +10,7 @@ class App extends Component {
         </header>
         <section>
           <div className='card'>
-            <img src='/1.jpeg' alt='' />
+            <img src='/p102/1.jpeg' alt='' />
             <label>Image 01</label>
           </div>
            <div className='card'>
